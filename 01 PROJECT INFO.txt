@@ -1,5 +1,5 @@
-**Log on to codeastro.com for more projects!**
+**Log on to https://portfolio-website-pink-iota-61.vercel.app/ for more projects!**
 
-**Developed by Randika Jeewantha**
+**Developed by Amit Shelke**
 
 **Recommended Python Version 2.x or 3.x**
